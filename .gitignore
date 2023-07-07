@@ -2,10 +2,15 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+*.xcworkspacedata
+*.xcuserstate
 *.pbxproj
 EmptyX.xcodeproj/project.pbxproj
+xcshareddata/
+xcuserdata/
 *.pbxproj
 EmptyX.xcodeproj
+*.plist
 
 ## User settings
 xcuserdata/
