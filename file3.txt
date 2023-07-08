@@ -1,0 +1,9 @@
+This line was replace in feature-2 branch
+
+This file was modified locally in XCode
+
+This line was added in feature-2 branch
+
+Another modification in feature-2 branch by XCode
+
+5 modifigcation in feature-2 branch by XCode

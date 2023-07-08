@@ -1,2 +1,5 @@
-# XCodeRepo-1
-This is template readme.md file
+# README.md
+
+manually resolve conflict in XCode
+
+New line was added locally in XCode
