@@ -1,3 +1,5 @@
-This file2.txt made in GitHub remote repository (feature-1 branch)
+This line was replace in feature-2 branch
 
 This file was modified locally in XCode
+
+This line was added in feature-2 branch
